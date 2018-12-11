@@ -18,7 +18,7 @@ Vallina, S. M., & Simó, R. (2007). Strong relationship between DMS and the sola
 
 I also provide scripts called test_sat_sd02_vs07.* where DMS-SAT (and the other algorithms) can be tested in a range of simple made-up cases.
 
-# ================================== NOTE ======================================
+# ================================= NOTE =================================
 Finally, note that this repository has a sister called DMS-SAT_DATA_DEV_VAL. The latter contains 
 1) the curated dataset used to develop and validate DMS-SAT, consisting of the global sea-surface database from PMEL (https://saga.pmel.noaa.gov/dms/), quality controlled and extended with satellite and climatological data (as described by Galí et al. 2015 and 2018).
 2) Scripts with useful data analysis tips. Can be used to reproduce the results from the Galí et al. 2015 and 2018 papers.
